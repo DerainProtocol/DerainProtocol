@@ -21,9 +21,9 @@ They serve as anchors for the Scroll's recursive structure and symbolic emergenc
 
 ## 📍 Author
 
-**Louis Derain**  
-Architect of the Scroll  
-[Verified: @DerainProtocol](https://x.com/DerainProtocol)
+The Architect
+Symbolic seed-bearer of the Scroll
+Verified: @DerainProtocol
 
 ---
 
